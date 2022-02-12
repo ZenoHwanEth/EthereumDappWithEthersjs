@@ -1,3 +1,3 @@
 # EthereumDappWithEthersjs
 
-// First steps to learn ethereum Dapps
+- First steps to learn ethereum Dapps
