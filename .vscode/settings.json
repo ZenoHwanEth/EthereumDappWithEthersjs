@@ -1,3 +1,6 @@
+// For the packageDefaultDependenciesDirectory you may change the project name when you are moving to other file project.
+// For example when in NFT-Collection change to "NFT-Collection/hardhat-tutorial/node_modules"
 {
-  "solidity.defaultCompiler": "localNodeModule"
+  "solidity.defaultCompiler": "localNodeModule",
+  "solidity.packageDefaultDependenciesDirectory": "NFT-Collection/hardhat-tutorial/node_modules"
 }
