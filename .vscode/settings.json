@@ -2,5 +2,5 @@
 // For example when in NFT-Collection change to "NFT-Collection/hardhat-tutorial/node_modules"
 {
   "solidity.defaultCompiler": "localNodeModule",
-  "solidity.packageDefaultDependenciesDirectory": "ICO/hardhat-tutorial/node_modules"
+  "solidity.packageDefaultDependenciesDirectory": "DAO/hardhat-tutorial/node_modules"
 }
