@@ -2,5 +2,5 @@
 // For example when in NFT-Collection change to "NFT-Collection/hardhat-tutorial/node_modules"
 {
   "solidity.defaultCompiler": "localNodeModule",
-  "solidity.packageDefaultDependenciesDirectory": "Defi-exchange/hardhat-tutorial/node_modules"
+  "solidity.packageDefaultDependenciesDirectory": "hardhat-verification/node_modules"
 }
